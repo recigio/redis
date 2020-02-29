@@ -1,0 +1,25 @@
+{
+  "name": "exercio-redis",
+  "version": "1.0.0",
+  "description": "Exercio Aula NoSQL pos-furb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recigio/redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recigio/redis/issues"
+  },
+  "homepage": "https://github.com/recigio/redis#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
