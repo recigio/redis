@@ -26,6 +26,11 @@ async function main() {
             console.log("user" + usuario, usuarios);
         }
 
+        console.log('---- Gerando tabela de pontos -----');
+        for (let tabela = 1; tabela < 51; tabela++) {
+            await redis.set("tabela:" + tabela, 0);
+        }
+
         //monta cartelas
         for (let cartela = 1; cartela < 51; cartela++) {
 
@@ -39,7 +44,39 @@ async function main() {
         }
 
         //começa sorteio
-        
+        let vencedor = false;
+
+        while (!vencedor) {
+
+            console.log("---- GIRANDO A ROLETA---");
+            const numero = await redis.srandmember("roleta", 1);
+            console.log("Saiu o numero " + numero + " !");
+
+            //checka se usuario possui numero
+            for (let usuario = 1; usuario < 51; usuario++) {
+
+                const possuiNumero = await redis.sismember("cartela:" + usuario, numero);
+                if (possuiNumero) {
+                    console.log("cartela:" + usuario, " acertou!");
+
+                    //soma pontuacao
+                    let pontuacaoAtual = await redis.get("tabela:" + usuario);
+                    pontuacaoAtual++;
+                    await redis.set("tabela:" + usuario, pontuacaoAtual);
+
+                    if (pontuacaoAtual === 15) {
+                        console.log("USUARIO " + usuario + " É O VENCEDOR!");
+                        vencedor = true;
+                        break;
+                    }
+
+                    console.log("usuario:" + usuario + " possui " + pontuacaoAtual + " pontos!");
+                }
+
+            }
+
+        }
+
 
         redis.disconnect();
 
