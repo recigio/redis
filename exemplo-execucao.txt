@@ -1,0 +1,1388 @@
+---- Gerando roleta -----
+[
+  '1',  '2',  '3',  '4',  '5',  '6',  '7',  '8',  '9',  '10',
+  '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
+  '21', '22', '23', '24', '25', '26', '27', '28', '29', '30',
+  '31', '32', '33', '34', '35', '36', '37', '38', '39', '40',
+  '41', '42', '43', '44', '45', '46', '47', '48', '49', '50',
+  '51', '52', '53', '54', '55', '56', '57', '58', '59', '60',
+  '61', '62', '63', '64', '65', '66', '67', '68', '69', '70',
+  '71', '72', '73', '74', '75', '76', '77', '78', '79', '80',
+  '81', '82', '83', '84', '85', '86', '87', '88', '89', '90',
+  '91', '92', '93', '94', '95', '96', '97', '98', '99'
+]
+---- Gerando usuarios -----
+user1 { bcartela: 'cartela:1', bscore: 'score:1' }
+user2 { bcartela: 'cartela:2', bscore: 'score:2' }
+user3 { bcartela: 'cartela:3', bscore: 'score:3' }
+user4 { bcartela: 'cartela:4', bscore: 'score:4' }
+user5 { bcartela: 'cartela:5', bscore: 'score:5' }
+user6 { bcartela: 'cartela:6', bscore: 'score:6' }
+user7 { bcartela: 'cartela:7', bscore: 'score:7' }
+user8 { bcartela: 'cartela:8', bscore: 'score:8' }
+user9 { bcartela: 'cartela:9', bscore: 'score:9' }
+user10 { bcartela: 'cartela:10', bscore: 'score:10' }
+user11 { bcartela: 'cartela:11', bscore: 'score:11' }
+user12 { bcartela: 'cartela:12', bscore: 'score:12' }
+user13 { bcartela: 'cartela:13', bscore: 'score:13' }
+user14 { bcartela: 'cartela:14', bscore: 'score:14' }
+user15 { bcartela: 'cartela:15', bscore: 'score:15' }
+user16 { bcartela: 'cartela:16', bscore: 'score:16' }
+user17 { bcartela: 'cartela:17', bscore: 'score:17' }
+user18 { bcartela: 'cartela:18', bscore: 'score:18' }
+user19 { bcartela: 'cartela:19', bscore: 'score:19' }
+user20 { bcartela: 'cartela:20', bscore: 'score:20' }
+user21 { bcartela: 'cartela:21', bscore: 'score:21' }
+user22 { bcartela: 'cartela:22', bscore: 'score:22' }
+user23 { bcartela: 'cartela:23', bscore: 'score:23' }
+user24 { bcartela: 'cartela:24', bscore: 'score:24' }
+user25 { bcartela: 'cartela:25', bscore: 'score:25' }
+user26 { bcartela: 'cartela:26', bscore: 'score:26' }
+user27 { bcartela: 'cartela:27', bscore: 'score:27' }
+user28 { bcartela: 'cartela:28', bscore: 'score:28' }
+user29 { bcartela: 'cartela:29', bscore: 'score:29' }
+user30 { bcartela: 'cartela:30', bscore: 'score:30' }
+user31 { bcartela: 'cartela:31', bscore: 'score:31' }
+user32 { bcartela: 'cartela:32', bscore: 'score:32' }
+user33 { bcartela: 'cartela:33', bscore: 'score:33' }
+user34 { bcartela: 'cartela:34', bscore: 'score:34' }
+user35 { bcartela: 'cartela:35', bscore: 'score:35' }
+user36 { bcartela: 'cartela:36', bscore: 'score:36' }
+user37 { bcartela: 'cartela:37', bscore: 'score:37' }
+user38 { bcartela: 'cartela:38', bscore: 'score:38' }
+user39 { bcartela: 'cartela:39', bscore: 'score:39' }
+user40 { bcartela: 'cartela:40', bscore: 'score:40' }
+user41 { bcartela: 'cartela:41', bscore: 'score:41' }
+user42 { bcartela: 'cartela:42', bscore: 'score:42' }
+user43 { bcartela: 'cartela:43', bscore: 'score:43' }
+user44 { bcartela: 'cartela:44', bscore: 'score:44' }
+user45 { bcartela: 'cartela:45', bscore: 'score:45' }
+user46 { bcartela: 'cartela:46', bscore: 'score:46' }
+user47 { bcartela: 'cartela:47', bscore: 'score:47' }
+user48 { bcartela: 'cartela:48', bscore: 'score:48' }
+user49 { bcartela: 'cartela:49', bscore: 'score:49' }
+user50 { bcartela: 'cartela:50', bscore: 'score:50' }
+---- Gerando tabela de pontos -----
+cartela1 [
+  '4',  '18', '20',
+  '24', '35', '42',
+  '46', '54', '64',
+  '67', '79', '90',
+  '92'
+]
+cartela2 [
+  '17', '30', '59',
+  '61', '62', '63',
+  '74', '79', '81',
+  '84', '97', '99'
+]
+cartela3 [
+  '16', '18', '22',
+  '38', '39', '46',
+  '55', '59', '61',
+  '67', '76', '84',
+  '88', '89'
+]
+cartela4 [
+  '14', '16', '29',
+  '32', '35', '39',
+  '53', '56', '57',
+  '58', '73', '84',
+  '93', '96'
+]
+cartela5 [
+  '5',  '7',  '8',  '25',
+  '42', '46', '50', '53',
+  '62', '67', '71', '79',
+  '91', '96'
+]
+cartela6 [
+  '4',  '11', '15', '26',
+  '34', '47', '49', '54',
+  '62', '71', '89', '91',
+  '98', '99'
+]
+cartela7 [
+  '9',  '13', '21', '23',
+  '30', '35', '43', '58',
+  '60', '65', '67', '75',
+  '89', '90', '96'
+]
+cartela8 [
+  '11', '14', '23', '33',
+  '40', '41', '42', '53',
+  '60', '73', '79', '80',
+  '81', '87', '95'
+]
+cartela9 [
+  '15', '32', '47',
+  '53', '54', '57',
+  '65', '71', '79',
+  '82', '90', '94'
+]
+cartela10 [
+  '7',  '21', '24', '27',
+  '32', '43', '44', '56',
+  '57', '62', '64', '66',
+  '76', '84', '93'
+]
+cartela11 [
+  '5',  '19', '32', '36',
+  '44', '51', '56', '75',
+  '80', '85', '86', '88',
+  '90', '98'
+]
+cartela12 [
+  '12', '16', '17', '22',
+  '27', '46', '49', '57',
+  '59', '63', '71', '72',
+  '74', '77', '92'
+]
+cartela13 [
+  '3',  '5',  '7',  '17',
+  '29', '32', '33', '37',
+  '46', '70', '71', '80',
+  '89', '92'
+]
+cartela14 [
+  '5',  '23', '30', '35',
+  '44', '46', '47', '58',
+  '59', '69', '75', '79',
+  '86', '88', '95'
+]
+cartela15 [
+  '3',  '8',  '12', '24',
+  '25', '29', '30', '33',
+  '40', '55', '61', '66',
+  '82', '92', '96'
+]
+cartela16 [
+  '1',  '14', '16',
+  '32', '38', '46',
+  '48', '51', '69',
+  '71', '72', '93',
+  '98'
+]
+cartela17 [
+  '7',  '28', '29', '35',
+  '38', '42', '45', '50',
+  '52', '54', '72', '73',
+  '74', '97'
+]
+cartela18 [
+  '4',  '11', '24',
+  '33', '34', '41',
+  '50', '61', '62',
+  '91', '92', '95'
+]
+cartela19 [
+  '2',  '6',  '8',  '17',
+  '23', '27', '29', '41',
+  '53', '54', '56', '57',
+  '66', '88', '98'
+]
+cartela20 [
+  '2',  '17', '23', '24',
+  '27', '50', '53', '63',
+  '68', '75', '76', '78',
+  '79', '93'
+]
+cartela21 [
+  '1',  '4',  '6',  '15',
+  '18', '25', '27', '43',
+  '76', '78', '81', '87',
+  '98'
+]
+cartela22 [
+  '1',  '5',  '19', '25',
+  '28', '35', '41', '49',
+  '53', '54', '74', '78',
+  '93', '95', '97'
+]
+cartela23 [
+  '13', '28', '33',
+  '35', '36', '40',
+  '48', '61', '67',
+  '72', '77', '78',
+  '93', '98'
+]
+cartela24 [
+  '11', '13', '24',
+  '29', '31', '33',
+  '39', '40', '41',
+  '42', '52', '56',
+  '64', '84'
+]
+cartela25 [
+  '5',  '6',  '7',  '15',
+  '16', '39', '49', '53',
+  '55', '72', '73', '78',
+  '90'
+]
+cartela26 [
+  '17', '21', '28', '33',
+  '34', '39', '42', '48',
+  '61', '64', '66', '75',
+  '77', '78', '92'
+]
+cartela27 [
+  '3',  '8',  '15', '30',
+  '55', '57', '75', '79',
+  '80', '83', '85', '90',
+  '95', '99'
+]
+cartela28 [
+  '4',  '9',  '12', '19',
+  '20', '30', '40', '60',
+  '61', '65', '71', '75',
+  '77', '86', '95'
+]
+cartela29 [
+  '5',  '35', '50',
+  '52', '54', '59',
+  '65', '67', '68',
+  '89', '92', '98'
+]
+cartela30 [
+  '7',  '12', '24',
+  '27', '30', '51',
+  '57', '67', '70',
+  '73', '75', '79',
+  '89'
+]
+cartela31 [
+  '3',  '14', '27', '29',
+  '42', '49', '52', '60',
+  '62', '72', '74', '75',
+  '83', '87'
+]
+cartela32 [
+  '2',  '7',  '8',  '25',
+  '26', '27', '39', '50',
+  '56', '57', '68', '72',
+  '84', '85', '91'
+]
+cartela33 [
+  '7',  '20', '27',
+  '33', '36', '40',
+  '49', '54', '57',
+  '70', '79', '82',
+  '86'
+]
+cartela34 [
+  '8',  '10', '29', '30',
+  '31', '37', '38', '43',
+  '48', '53', '72', '81',
+  '82', '91', '95'
+]
+cartela35 [
+  '5',  '18', '20', '22',
+  '24', '42', '44', '48',
+  '50', '56', '59', '74',
+  '75', '94'
+]
+cartela36 [
+  '1',  '7',  '10', '12',
+  '19', '26', '28', '30',
+  '36', '47', '59', '73',
+  '75', '92', '94'
+]
+cartela37 [
+  '4',  '7',  '13', '17',
+  '34', '35', '39', '44',
+  '62', '85', '88', '91',
+  '94'
+]
+cartela38 [
+  '5',  '13', '19', '21',
+  '25', '28', '41', '48',
+  '62', '65', '66', '79',
+  '89', '90'
+]
+cartela39 [
+  '12', '19', '25', '33',
+  '35', '43', '45', '53',
+  '58', '69', '77', '80',
+  '91', '92', '99'
+]
+cartela40 [
+  '4',  '5',  '6',  '16',
+  '21', '22', '55', '68',
+  '72', '75', '83', '84',
+  '91', '93'
+]
+cartela41 [
+  '2',  '10', '19', '26',
+  '28', '35', '42', '44',
+  '47', '56', '71', '76',
+  '80', '86', '87'
+]
+cartela42 [
+  '14', '18', '23',
+  '25', '29', '40',
+  '44', '45', '50',
+  '52', '54', '59',
+  '65', '90'
+]
+cartela43 [
+  '18', '19', '25',
+  '31', '32', '40',
+  '42', '52', '57',
+  '59', '65', '72',
+  '75', '89'
+]
+cartela44 [
+  '3',  '4',  '10', '17',
+  '18', '33', '41', '45',
+  '56', '57', '67', '69',
+  '77', '99'
+]
+cartela45 [
+  '1',  '14', '20', '23',
+  '28', '32', '61', '64',
+  '73', '80', '82', '88',
+  '89', '98', '99'
+]
+cartela46 [
+  '1',  '10', '17', '19',
+  '22', '34', '39', '64',
+  '65', '66', '72', '74',
+  '77', '83'
+]
+cartela47 [
+  '8',  '34', '35',
+  '36', '41', '49',
+  '52', '53', '54',
+  '62', '63', '81'
+]
+cartela48 [
+  '15', '17', '19',
+  '57', '60', '69',
+  '80', '82', '83',
+  '85', '90', '97',
+  '99'
+]
+cartela49 [
+  '3',  '7',  '20', '24',
+  '28', '30', '31', '39',
+  '53', '63', '68', '78',
+  '83', '86', '87'
+]
+cartela50 [
+  '15', '20', '21', '24',
+  '25', '26', '29', '38',
+  '40', '41', '45', '74',
+  '80', '83', '99'
+]
+---- GIRANDO A ROLETA---
+Saiu o numero 94 !
+cartela:9  acertou!
+usuario:9 possui 1 pontos!
+cartela:35  acertou!
+usuario:35 possui 1 pontos!
+cartela:36  acertou!
+usuario:36 possui 1 pontos!
+cartela:37  acertou!
+usuario:37 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 56 !
+cartela:4  acertou!
+usuario:4 possui 1 pontos!
+cartela:10  acertou!
+usuario:10 possui 1 pontos!
+cartela:11  acertou!
+usuario:11 possui 1 pontos!
+cartela:19  acertou!
+usuario:19 possui 1 pontos!
+cartela:24  acertou!
+usuario:24 possui 1 pontos!
+cartela:32  acertou!
+usuario:32 possui 1 pontos!
+cartela:35  acertou!
+usuario:35 possui 2 pontos!
+cartela:41  acertou!
+usuario:41 possui 1 pontos!
+cartela:44  acertou!
+usuario:44 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 89 !
+cartela:3  acertou!
+usuario:3 possui 1 pontos!
+cartela:6  acertou!
+usuario:6 possui 1 pontos!
+cartela:7  acertou!
+usuario:7 possui 1 pontos!
+cartela:13  acertou!
+usuario:13 possui 1 pontos!
+cartela:29  acertou!
+usuario:29 possui 1 pontos!
+cartela:30  acertou!
+usuario:30 possui 1 pontos!
+cartela:38  acertou!
+usuario:38 possui 1 pontos!
+cartela:43  acertou!
+usuario:43 possui 1 pontos!
+cartela:45  acertou!
+usuario:45 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 63 !
+cartela:2  acertou!
+usuario:2 possui 1 pontos!
+cartela:12  acertou!
+usuario:12 possui 1 pontos!
+cartela:20  acertou!
+usuario:20 possui 1 pontos!
+cartela:47  acertou!
+usuario:47 possui 1 pontos!
+cartela:49  acertou!
+usuario:49 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 17 !
+cartela:2  acertou!
+usuario:2 possui 2 pontos!
+cartela:12  acertou!
+usuario:12 possui 2 pontos!
+cartela:13  acertou!
+usuario:13 possui 2 pontos!
+cartela:19  acertou!
+usuario:19 possui 2 pontos!
+cartela:20  acertou!
+usuario:20 possui 2 pontos!
+cartela:26  acertou!
+usuario:26 possui 1 pontos!
+cartela:37  acertou!
+usuario:37 possui 2 pontos!
+cartela:44  acertou!
+usuario:44 possui 2 pontos!
+cartela:46  acertou!
+usuario:46 possui 1 pontos!
+cartela:48  acertou!
+usuario:48 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 74 !
+cartela:2  acertou!
+usuario:2 possui 3 pontos!
+cartela:12  acertou!
+usuario:12 possui 3 pontos!
+cartela:17  acertou!
+usuario:17 possui 1 pontos!
+cartela:22  acertou!
+usuario:22 possui 1 pontos!
+cartela:31  acertou!
+usuario:31 possui 1 pontos!
+cartela:35  acertou!
+usuario:35 possui 3 pontos!
+cartela:46  acertou!
+usuario:46 possui 2 pontos!
+cartela:50  acertou!
+usuario:50 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 63 !
+cartela:2  acertou!
+usuario:2 possui 4 pontos!
+cartela:12  acertou!
+usuario:12 possui 4 pontos!
+cartela:20  acertou!
+usuario:20 possui 3 pontos!
+cartela:47  acertou!
+usuario:47 possui 2 pontos!
+cartela:49  acertou!
+usuario:49 possui 2 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 40 !
+cartela:8  acertou!
+usuario:8 possui 1 pontos!
+cartela:15  acertou!
+usuario:15 possui 1 pontos!
+cartela:23  acertou!
+usuario:23 possui 1 pontos!
+cartela:24  acertou!
+usuario:24 possui 2 pontos!
+cartela:28  acertou!
+usuario:28 possui 1 pontos!
+cartela:33  acertou!
+usuario:33 possui 1 pontos!
+cartela:42  acertou!
+usuario:42 possui 1 pontos!
+cartela:43  acertou!
+usuario:43 possui 2 pontos!
+cartela:50  acertou!
+usuario:50 possui 2 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 13 !
+cartela:7  acertou!
+usuario:7 possui 2 pontos!
+cartela:23  acertou!
+usuario:23 possui 2 pontos!
+cartela:24  acertou!
+usuario:24 possui 3 pontos!
+cartela:37  acertou!
+usuario:37 possui 3 pontos!
+cartela:38  acertou!
+usuario:38 possui 2 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 14 !
+cartela:4  acertou!
+usuario:4 possui 2 pontos!
+cartela:8  acertou!
+usuario:8 possui 2 pontos!
+cartela:16  acertou!
+usuario:16 possui 1 pontos!
+cartela:31  acertou!
+usuario:31 possui 2 pontos!
+cartela:42  acertou!
+usuario:42 possui 2 pontos!
+cartela:45  acertou!
+usuario:45 possui 2 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 23 !
+cartela:7  acertou!
+usuario:7 possui 3 pontos!
+cartela:8  acertou!
+usuario:8 possui 3 pontos!
+cartela:14  acertou!
+usuario:14 possui 1 pontos!
+cartela:19  acertou!
+usuario:19 possui 3 pontos!
+cartela:20  acertou!
+usuario:20 possui 4 pontos!
+cartela:42  acertou!
+usuario:42 possui 3 pontos!
+cartela:45  acertou!
+usuario:45 possui 3 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 90 !
+cartela:1  acertou!
+usuario:1 possui 1 pontos!
+cartela:7  acertou!
+usuario:7 possui 4 pontos!
+cartela:9  acertou!
+usuario:9 possui 2 pontos!
+cartela:11  acertou!
+usuario:11 possui 2 pontos!
+cartela:25  acertou!
+usuario:25 possui 1 pontos!
+cartela:27  acertou!
+usuario:27 possui 1 pontos!
+cartela:38  acertou!
+usuario:38 possui 3 pontos!
+cartela:42  acertou!
+usuario:42 possui 4 pontos!
+cartela:48  acertou!
+usuario:48 possui 2 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 99 !
+cartela:2  acertou!
+usuario:2 possui 5 pontos!
+cartela:6  acertou!
+usuario:6 possui 2 pontos!
+cartela:27  acertou!
+usuario:27 possui 2 pontos!
+cartela:39  acertou!
+usuario:39 possui 1 pontos!
+cartela:44  acertou!
+usuario:44 possui 3 pontos!
+cartela:45  acertou!
+usuario:45 possui 4 pontos!
+cartela:48  acertou!
+usuario:48 possui 3 pontos!
+cartela:50  acertou!
+usuario:50 possui 3 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 53 !
+cartela:4  acertou!
+usuario:4 possui 3 pontos!
+cartela:5  acertou!
+usuario:5 possui 1 pontos!
+cartela:8  acertou!
+usuario:8 possui 4 pontos!
+cartela:9  acertou!
+usuario:9 possui 3 pontos!
+cartela:19  acertou!
+usuario:19 possui 4 pontos!
+cartela:20  acertou!
+usuario:20 possui 5 pontos!
+cartela:22  acertou!
+usuario:22 possui 2 pontos!
+cartela:25  acertou!
+usuario:25 possui 2 pontos!
+cartela:34  acertou!
+usuario:34 possui 1 pontos!
+cartela:39  acertou!
+usuario:39 possui 2 pontos!
+cartela:47  acertou!
+usuario:47 possui 3 pontos!
+cartela:49  acertou!
+usuario:49 possui 3 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 19 !
+cartela:11  acertou!
+usuario:11 possui 3 pontos!
+cartela:22  acertou!
+usuario:22 possui 3 pontos!
+cartela:28  acertou!
+usuario:28 possui 2 pontos!
+cartela:36  acertou!
+usuario:36 possui 2 pontos!
+cartela:38  acertou!
+usuario:38 possui 4 pontos!
+cartela:39  acertou!
+usuario:39 possui 3 pontos!
+cartela:41  acertou!
+usuario:41 possui 2 pontos!
+cartela:43  acertou!
+usuario:43 possui 3 pontos!
+cartela:46  acertou!
+usuario:46 possui 3 pontos!
+cartela:48  acertou!
+usuario:48 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 17 !
+cartela:2  acertou!
+usuario:2 possui 6 pontos!
+cartela:12  acertou!
+usuario:12 possui 5 pontos!
+cartela:13  acertou!
+usuario:13 possui 3 pontos!
+cartela:19  acertou!
+usuario:19 possui 5 pontos!
+cartela:20  acertou!
+usuario:20 possui 6 pontos!
+cartela:26  acertou!
+usuario:26 possui 2 pontos!
+cartela:37  acertou!
+usuario:37 possui 4 pontos!
+cartela:44  acertou!
+usuario:44 possui 4 pontos!
+cartela:46  acertou!
+usuario:46 possui 4 pontos!
+cartela:48  acertou!
+usuario:48 possui 5 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 90 !
+cartela:1  acertou!
+usuario:1 possui 2 pontos!
+cartela:7  acertou!
+usuario:7 possui 5 pontos!
+cartela:9  acertou!
+usuario:9 possui 4 pontos!
+cartela:11  acertou!
+usuario:11 possui 4 pontos!
+cartela:25  acertou!
+usuario:25 possui 3 pontos!
+cartela:27  acertou!
+usuario:27 possui 3 pontos!
+cartela:38  acertou!
+usuario:38 possui 5 pontos!
+cartela:42  acertou!
+usuario:42 possui 5 pontos!
+cartela:48  acertou!
+usuario:48 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 61 !
+cartela:2  acertou!
+usuario:2 possui 7 pontos!
+cartela:3  acertou!
+usuario:3 possui 2 pontos!
+cartela:15  acertou!
+usuario:15 possui 2 pontos!
+cartela:18  acertou!
+usuario:18 possui 1 pontos!
+cartela:23  acertou!
+usuario:23 possui 3 pontos!
+cartela:26  acertou!
+usuario:26 possui 3 pontos!
+cartela:28  acertou!
+usuario:28 possui 3 pontos!
+cartela:45  acertou!
+usuario:45 possui 5 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 31 !
+cartela:24  acertou!
+usuario:24 possui 4 pontos!
+cartela:34  acertou!
+usuario:34 possui 2 pontos!
+cartela:43  acertou!
+usuario:43 possui 4 pontos!
+cartela:49  acertou!
+usuario:49 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 9 !
+cartela:7  acertou!
+usuario:7 possui 6 pontos!
+cartela:28  acertou!
+usuario:28 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 85 !
+cartela:11  acertou!
+usuario:11 possui 5 pontos!
+cartela:27  acertou!
+usuario:27 possui 4 pontos!
+cartela:32  acertou!
+usuario:32 possui 2 pontos!
+cartela:37  acertou!
+usuario:37 possui 5 pontos!
+cartela:48  acertou!
+usuario:48 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 3 !
+cartela:13  acertou!
+usuario:13 possui 4 pontos!
+cartela:15  acertou!
+usuario:15 possui 3 pontos!
+cartela:27  acertou!
+usuario:27 possui 5 pontos!
+cartela:31  acertou!
+usuario:31 possui 3 pontos!
+cartela:44  acertou!
+usuario:44 possui 5 pontos!
+cartela:49  acertou!
+usuario:49 possui 5 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 26 !
+cartela:6  acertou!
+usuario:6 possui 3 pontos!
+cartela:32  acertou!
+usuario:32 possui 3 pontos!
+cartela:36  acertou!
+usuario:36 possui 3 pontos!
+cartela:41  acertou!
+usuario:41 possui 3 pontos!
+cartela:50  acertou!
+usuario:50 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 8 !
+cartela:5  acertou!
+usuario:5 possui 2 pontos!
+cartela:15  acertou!
+usuario:15 possui 4 pontos!
+cartela:19  acertou!
+usuario:19 possui 6 pontos!
+cartela:27  acertou!
+usuario:27 possui 6 pontos!
+cartela:32  acertou!
+usuario:32 possui 4 pontos!
+cartela:34  acertou!
+usuario:34 possui 3 pontos!
+cartela:47  acertou!
+usuario:47 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 43 !
+cartela:7  acertou!
+usuario:7 possui 7 pontos!
+cartela:10  acertou!
+usuario:10 possui 2 pontos!
+cartela:21  acertou!
+usuario:21 possui 1 pontos!
+cartela:34  acertou!
+usuario:34 possui 4 pontos!
+cartela:39  acertou!
+usuario:39 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 25 !
+cartela:5  acertou!
+usuario:5 possui 3 pontos!
+cartela:15  acertou!
+usuario:15 possui 5 pontos!
+cartela:21  acertou!
+usuario:21 possui 2 pontos!
+cartela:22  acertou!
+usuario:22 possui 4 pontos!
+cartela:32  acertou!
+usuario:32 possui 5 pontos!
+cartela:38  acertou!
+usuario:38 possui 6 pontos!
+cartela:39  acertou!
+usuario:39 possui 5 pontos!
+cartela:42  acertou!
+usuario:42 possui 6 pontos!
+cartela:43  acertou!
+usuario:43 possui 5 pontos!
+cartela:50  acertou!
+usuario:50 possui 5 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 47 !
+cartela:6  acertou!
+usuario:6 possui 4 pontos!
+cartela:9  acertou!
+usuario:9 possui 5 pontos!
+cartela:14  acertou!
+usuario:14 possui 2 pontos!
+cartela:36  acertou!
+usuario:36 possui 4 pontos!
+cartela:41  acertou!
+usuario:41 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 67 !
+cartela:1  acertou!
+usuario:1 possui 3 pontos!
+cartela:3  acertou!
+usuario:3 possui 3 pontos!
+cartela:5  acertou!
+usuario:5 possui 4 pontos!
+cartela:7  acertou!
+usuario:7 possui 8 pontos!
+cartela:23  acertou!
+usuario:23 possui 4 pontos!
+cartela:29  acertou!
+usuario:29 possui 2 pontos!
+cartela:30  acertou!
+usuario:30 possui 2 pontos!
+cartela:44  acertou!
+usuario:44 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 6 !
+cartela:19  acertou!
+usuario:19 possui 7 pontos!
+cartela:21  acertou!
+usuario:21 possui 3 pontos!
+cartela:25  acertou!
+usuario:25 possui 4 pontos!
+cartela:40  acertou!
+usuario:40 possui 1 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 73 !
+cartela:4  acertou!
+usuario:4 possui 4 pontos!
+cartela:8  acertou!
+usuario:8 possui 5 pontos!
+cartela:17  acertou!
+usuario:17 possui 2 pontos!
+cartela:25  acertou!
+usuario:25 possui 5 pontos!
+cartela:30  acertou!
+usuario:30 possui 3 pontos!
+cartela:36  acertou!
+usuario:36 possui 5 pontos!
+cartela:45  acertou!
+usuario:45 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 50 !
+cartela:5  acertou!
+usuario:5 possui 5 pontos!
+cartela:17  acertou!
+usuario:17 possui 3 pontos!
+cartela:18  acertou!
+usuario:18 possui 2 pontos!
+cartela:20  acertou!
+usuario:20 possui 7 pontos!
+cartela:29  acertou!
+usuario:29 possui 3 pontos!
+cartela:32  acertou!
+usuario:32 possui 6 pontos!
+cartela:35  acertou!
+usuario:35 possui 4 pontos!
+cartela:42  acertou!
+usuario:42 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 97 !
+cartela:2  acertou!
+usuario:2 possui 8 pontos!
+cartela:17  acertou!
+usuario:17 possui 4 pontos!
+cartela:22  acertou!
+usuario:22 possui 5 pontos!
+cartela:48  acertou!
+usuario:48 possui 8 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 29 !
+cartela:4  acertou!
+usuario:4 possui 5 pontos!
+cartela:13  acertou!
+usuario:13 possui 5 pontos!
+cartela:15  acertou!
+usuario:15 possui 6 pontos!
+cartela:17  acertou!
+usuario:17 possui 5 pontos!
+cartela:19  acertou!
+usuario:19 possui 8 pontos!
+cartela:24  acertou!
+usuario:24 possui 5 pontos!
+cartela:31  acertou!
+usuario:31 possui 4 pontos!
+cartela:34  acertou!
+usuario:34 possui 5 pontos!
+cartela:42  acertou!
+usuario:42 possui 8 pontos!
+cartela:50  acertou!
+usuario:50 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 37 !
+cartela:13  acertou!
+usuario:13 possui 6 pontos!
+cartela:34  acertou!
+usuario:34 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 58 !
+cartela:4  acertou!
+usuario:4 possui 6 pontos!
+cartela:7  acertou!
+usuario:7 possui 9 pontos!
+cartela:14  acertou!
+usuario:14 possui 3 pontos!
+cartela:39  acertou!
+usuario:39 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 45 !
+cartela:17  acertou!
+usuario:17 possui 6 pontos!
+cartela:39  acertou!
+usuario:39 possui 7 pontos!
+cartela:42  acertou!
+usuario:42 possui 9 pontos!
+cartela:44  acertou!
+usuario:44 possui 7 pontos!
+cartela:50  acertou!
+usuario:50 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 11 !
+cartela:6  acertou!
+usuario:6 possui 5 pontos!
+cartela:8  acertou!
+usuario:8 possui 6 pontos!
+cartela:18  acertou!
+usuario:18 possui 3 pontos!
+cartela:24  acertou!
+usuario:24 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 19 !
+cartela:11  acertou!
+usuario:11 possui 6 pontos!
+cartela:22  acertou!
+usuario:22 possui 6 pontos!
+cartela:28  acertou!
+usuario:28 possui 5 pontos!
+cartela:36  acertou!
+usuario:36 possui 6 pontos!
+cartela:38  acertou!
+usuario:38 possui 7 pontos!
+cartela:39  acertou!
+usuario:39 possui 8 pontos!
+cartela:41  acertou!
+usuario:41 possui 5 pontos!
+cartela:43  acertou!
+usuario:43 possui 6 pontos!
+cartela:46  acertou!
+usuario:46 possui 5 pontos!
+cartela:48  acertou!
+usuario:48 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 82 !
+cartela:9  acertou!
+usuario:9 possui 6 pontos!
+cartela:15  acertou!
+usuario:15 possui 7 pontos!
+cartela:33  acertou!
+usuario:33 possui 2 pontos!
+cartela:34  acertou!
+usuario:34 possui 7 pontos!
+cartela:45  acertou!
+usuario:45 possui 7 pontos!
+cartela:48  acertou!
+usuario:48 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 21 !
+cartela:7  acertou!
+usuario:7 possui 10 pontos!
+cartela:10  acertou!
+usuario:10 possui 3 pontos!
+cartela:26  acertou!
+usuario:26 possui 4 pontos!
+cartela:38  acertou!
+usuario:38 possui 8 pontos!
+cartela:40  acertou!
+usuario:40 possui 2 pontos!
+cartela:50  acertou!
+usuario:50 possui 8 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 33 !
+cartela:8  acertou!
+usuario:8 possui 7 pontos!
+cartela:13  acertou!
+usuario:13 possui 7 pontos!
+cartela:15  acertou!
+usuario:15 possui 8 pontos!
+cartela:18  acertou!
+usuario:18 possui 4 pontos!
+cartela:23  acertou!
+usuario:23 possui 5 pontos!
+cartela:24  acertou!
+usuario:24 possui 7 pontos!
+cartela:26  acertou!
+usuario:26 possui 5 pontos!
+cartela:33  acertou!
+usuario:33 possui 3 pontos!
+cartela:39  acertou!
+usuario:39 possui 9 pontos!
+cartela:44  acertou!
+usuario:44 possui 8 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 6 !
+cartela:19  acertou!
+usuario:19 possui 9 pontos!
+cartela:21  acertou!
+usuario:21 possui 4 pontos!
+cartela:25  acertou!
+usuario:25 possui 6 pontos!
+cartela:40  acertou!
+usuario:40 possui 3 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 10 !
+cartela:34  acertou!
+usuario:34 possui 8 pontos!
+cartela:36  acertou!
+usuario:36 possui 7 pontos!
+cartela:41  acertou!
+usuario:41 possui 6 pontos!
+cartela:44  acertou!
+usuario:44 possui 9 pontos!
+cartela:46  acertou!
+usuario:46 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 30 !
+cartela:2  acertou!
+usuario:2 possui 9 pontos!
+cartela:7  acertou!
+usuario:7 possui 11 pontos!
+cartela:14  acertou!
+usuario:14 possui 4 pontos!
+cartela:15  acertou!
+usuario:15 possui 9 pontos!
+cartela:27  acertou!
+usuario:27 possui 7 pontos!
+cartela:28  acertou!
+usuario:28 possui 6 pontos!
+cartela:30  acertou!
+usuario:30 possui 4 pontos!
+cartela:34  acertou!
+usuario:34 possui 9 pontos!
+cartela:36  acertou!
+usuario:36 possui 8 pontos!
+cartela:49  acertou!
+usuario:49 possui 6 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 56 !
+cartela:4  acertou!
+usuario:4 possui 7 pontos!
+cartela:10  acertou!
+usuario:10 possui 4 pontos!
+cartela:11  acertou!
+usuario:11 possui 7 pontos!
+cartela:19  acertou!
+usuario:19 possui 10 pontos!
+cartela:24  acertou!
+usuario:24 possui 8 pontos!
+cartela:32  acertou!
+usuario:32 possui 7 pontos!
+cartela:35  acertou!
+usuario:35 possui 5 pontos!
+cartela:41  acertou!
+usuario:41 possui 7 pontos!
+cartela:44  acertou!
+usuario:44 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 26 !
+cartela:6  acertou!
+usuario:6 possui 6 pontos!
+cartela:32  acertou!
+usuario:32 possui 8 pontos!
+cartela:36  acertou!
+usuario:36 possui 9 pontos!
+cartela:41  acertou!
+usuario:41 possui 8 pontos!
+cartela:50  acertou!
+usuario:50 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 47 !
+cartela:6  acertou!
+usuario:6 possui 7 pontos!
+cartela:9  acertou!
+usuario:9 possui 7 pontos!
+cartela:14  acertou!
+usuario:14 possui 5 pontos!
+cartela:36  acertou!
+usuario:36 possui 10 pontos!
+cartela:41  acertou!
+usuario:41 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 44 !
+cartela:10  acertou!
+usuario:10 possui 5 pontos!
+cartela:11  acertou!
+usuario:11 possui 8 pontos!
+cartela:14  acertou!
+usuario:14 possui 6 pontos!
+cartela:35  acertou!
+usuario:35 possui 6 pontos!
+cartela:37  acertou!
+usuario:37 possui 6 pontos!
+cartela:41  acertou!
+usuario:41 possui 10 pontos!
+cartela:42  acertou!
+usuario:42 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 87 !
+cartela:8  acertou!
+usuario:8 possui 8 pontos!
+cartela:21  acertou!
+usuario:21 possui 5 pontos!
+cartela:31  acertou!
+usuario:31 possui 5 pontos!
+cartela:41  acertou!
+usuario:41 possui 11 pontos!
+cartela:49  acertou!
+usuario:49 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 75 !
+cartela:7  acertou!
+usuario:7 possui 12 pontos!
+cartela:11  acertou!
+usuario:11 possui 9 pontos!
+cartela:14  acertou!
+usuario:14 possui 7 pontos!
+cartela:20  acertou!
+usuario:20 possui 8 pontos!
+cartela:26  acertou!
+usuario:26 possui 6 pontos!
+cartela:27  acertou!
+usuario:27 possui 8 pontos!
+cartela:28  acertou!
+usuario:28 possui 7 pontos!
+cartela:30  acertou!
+usuario:30 possui 5 pontos!
+cartela:31  acertou!
+usuario:31 possui 6 pontos!
+cartela:35  acertou!
+usuario:35 possui 7 pontos!
+cartela:36  acertou!
+usuario:36 possui 11 pontos!
+cartela:40  acertou!
+usuario:40 possui 4 pontos!
+cartela:43  acertou!
+usuario:43 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 52 !
+cartela:17  acertou!
+usuario:17 possui 7 pontos!
+cartela:24  acertou!
+usuario:24 possui 9 pontos!
+cartela:29  acertou!
+usuario:29 possui 4 pontos!
+cartela:31  acertou!
+usuario:31 possui 7 pontos!
+cartela:42  acertou!
+usuario:42 possui 11 pontos!
+cartela:43  acertou!
+usuario:43 possui 8 pontos!
+cartela:47  acertou!
+usuario:47 possui 5 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 70 !
+cartela:13  acertou!
+usuario:13 possui 8 pontos!
+cartela:30  acertou!
+usuario:30 possui 6 pontos!
+cartela:33  acertou!
+usuario:33 possui 4 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 78 !
+cartela:20  acertou!
+usuario:20 possui 9 pontos!
+cartela:21  acertou!
+usuario:21 possui 6 pontos!
+cartela:22  acertou!
+usuario:22 possui 7 pontos!
+cartela:23  acertou!
+usuario:23 possui 6 pontos!
+cartela:25  acertou!
+usuario:25 possui 7 pontos!
+cartela:26  acertou!
+usuario:26 possui 7 pontos!
+cartela:49  acertou!
+usuario:49 possui 8 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 75 !
+cartela:7  acertou!
+usuario:7 possui 13 pontos!
+cartela:11  acertou!
+usuario:11 possui 10 pontos!
+cartela:14  acertou!
+usuario:14 possui 8 pontos!
+cartela:20  acertou!
+usuario:20 possui 10 pontos!
+cartela:26  acertou!
+usuario:26 possui 8 pontos!
+cartela:27  acertou!
+usuario:27 possui 9 pontos!
+cartela:28  acertou!
+usuario:28 possui 8 pontos!
+cartela:30  acertou!
+usuario:30 possui 7 pontos!
+cartela:31  acertou!
+usuario:31 possui 8 pontos!
+cartela:35  acertou!
+usuario:35 possui 8 pontos!
+cartela:36  acertou!
+usuario:36 possui 12 pontos!
+cartela:40  acertou!
+usuario:40 possui 5 pontos!
+cartela:43  acertou!
+usuario:43 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 77 !
+cartela:12  acertou!
+usuario:12 possui 6 pontos!
+cartela:23  acertou!
+usuario:23 possui 7 pontos!
+cartela:26  acertou!
+usuario:26 possui 9 pontos!
+cartela:28  acertou!
+usuario:28 possui 9 pontos!
+cartela:39  acertou!
+usuario:39 possui 10 pontos!
+cartela:44  acertou!
+usuario:44 possui 11 pontos!
+cartela:46  acertou!
+usuario:46 possui 7 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 19 !
+cartela:11  acertou!
+usuario:11 possui 11 pontos!
+cartela:22  acertou!
+usuario:22 possui 8 pontos!
+cartela:28  acertou!
+usuario:28 possui 10 pontos!
+cartela:36  acertou!
+usuario:36 possui 13 pontos!
+cartela:38  acertou!
+usuario:38 possui 9 pontos!
+cartela:39  acertou!
+usuario:39 possui 11 pontos!
+cartela:41  acertou!
+usuario:41 possui 12 pontos!
+cartela:43  acertou!
+usuario:43 possui 10 pontos!
+cartela:46  acertou!
+usuario:46 possui 8 pontos!
+cartela:48  acertou!
+usuario:48 possui 11 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 99 !
+cartela:2  acertou!
+usuario:2 possui 10 pontos!
+cartela:6  acertou!
+usuario:6 possui 8 pontos!
+cartela:27  acertou!
+usuario:27 possui 10 pontos!
+cartela:39  acertou!
+usuario:39 possui 12 pontos!
+cartela:44  acertou!
+usuario:44 possui 12 pontos!
+cartela:45  acertou!
+usuario:45 possui 8 pontos!
+cartela:48  acertou!
+usuario:48 possui 12 pontos!
+cartela:50  acertou!
+usuario:50 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 23 !
+cartela:7  acertou!
+usuario:7 possui 14 pontos!
+cartela:8  acertou!
+usuario:8 possui 9 pontos!
+cartela:14  acertou!
+usuario:14 possui 9 pontos!
+cartela:19  acertou!
+usuario:19 possui 11 pontos!
+cartela:20  acertou!
+usuario:20 possui 11 pontos!
+cartela:42  acertou!
+usuario:42 possui 12 pontos!
+cartela:45  acertou!
+usuario:45 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 85 !
+cartela:11  acertou!
+usuario:11 possui 12 pontos!
+cartela:27  acertou!
+usuario:27 possui 11 pontos!
+cartela:32  acertou!
+usuario:32 possui 9 pontos!
+cartela:37  acertou!
+usuario:37 possui 7 pontos!
+cartela:48  acertou!
+usuario:48 possui 13 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 3 !
+cartela:13  acertou!
+usuario:13 possui 9 pontos!
+cartela:15  acertou!
+usuario:15 possui 10 pontos!
+cartela:27  acertou!
+usuario:27 possui 12 pontos!
+cartela:31  acertou!
+usuario:31 possui 9 pontos!
+cartela:44  acertou!
+usuario:44 possui 13 pontos!
+cartela:49  acertou!
+usuario:49 possui 9 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 95 !
+cartela:8  acertou!
+usuario:8 possui 10 pontos!
+cartela:14  acertou!
+usuario:14 possui 10 pontos!
+cartela:18  acertou!
+usuario:18 possui 5 pontos!
+cartela:22  acertou!
+usuario:22 possui 9 pontos!
+cartela:27  acertou!
+usuario:27 possui 13 pontos!
+cartela:28  acertou!
+usuario:28 possui 11 pontos!
+cartela:34  acertou!
+usuario:34 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 33 !
+cartela:8  acertou!
+usuario:8 possui 11 pontos!
+cartela:13  acertou!
+usuario:13 possui 10 pontos!
+cartela:15  acertou!
+usuario:15 possui 11 pontos!
+cartela:18  acertou!
+usuario:18 possui 6 pontos!
+cartela:23  acertou!
+usuario:23 possui 8 pontos!
+cartela:24  acertou!
+usuario:24 possui 10 pontos!
+cartela:26  acertou!
+usuario:26 possui 10 pontos!
+cartela:33  acertou!
+usuario:33 possui 5 pontos!
+cartela:39  acertou!
+usuario:39 possui 13 pontos!
+cartela:44  acertou!
+usuario:44 possui 14 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 98 !
+cartela:6  acertou!
+usuario:6 possui 9 pontos!
+cartela:11  acertou!
+usuario:11 possui 13 pontos!
+cartela:16  acertou!
+usuario:16 possui 2 pontos!
+cartela:19  acertou!
+usuario:19 possui 12 pontos!
+cartela:21  acertou!
+usuario:21 possui 7 pontos!
+cartela:23  acertou!
+usuario:23 possui 9 pontos!
+cartela:29  acertou!
+usuario:29 possui 5 pontos!
+cartela:45  acertou!
+usuario:45 possui 10 pontos!
+---- GIRANDO A ROLETA---
+Saiu o numero 23 !
+cartela:7  acertou!
+USUARIO 7 É O VENCEDOR!

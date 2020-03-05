@@ -20,3 +20,6 @@ npm install
 ```
 node run index.js
 ```
+
+## Exemplo de saida
+Nesse projeto: exemplo-execucao.txt

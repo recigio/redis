@@ -72,11 +72,8 @@ async function main() {
 
                     console.log("usuario:" + usuario + " possui " + pontuacaoAtual + " pontos!");
                 }
-
             }
-
         }
-
 
         redis.disconnect();
 
